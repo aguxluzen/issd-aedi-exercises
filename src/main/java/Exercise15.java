@@ -7,6 +7,7 @@ public class Exercise15 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+
         Float sueldo = scanner.nextFloat();
         int antiguedad = scanner.nextInt();
 
